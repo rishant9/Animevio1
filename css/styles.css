@@ -1,0 +1,23 @@
+body{
+    background-color:#E2BAB1;
+}
+.navbar-brand{
+    color: rgb(242, 242, 245);
+    font-family: "Staatliches";
+    font-size: 3.6rem;
+    
+}
+.nav-link{
+    color: white;
+    font-family: "Chathura";
+    font-size: 2.6rem;
+}
+iframe{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+    
+}
+
+
